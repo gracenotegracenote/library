@@ -1,0 +1,5 @@
+package com.library.domains.enums;
+
+public enum ServiceStatus {
+    SUCCESSFUL, ALREADY_BORROWED, USER_NOT_FOUND, MEDIUM_NOT_FOUND, MEDIUM_NOT_AVAILABLE, EXEMPLAR_NOT_FOUND, MEDIUM_IS_NOT_BORROWED
+}
